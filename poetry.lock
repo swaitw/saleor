@@ -555,15 +555,15 @@ Django = ">=2.2"
 
 [[package]]
 name = "django-graphiql-debug-toolbar"
-version = "0.1.4"
-description = "Django Debug Toolbar for GraphiQL IDE"
+version = "0.2.0"
+description = "Django Debug Toolbar for GraphiQL IDE."
 category = "dev"
 optional = false
-python-versions = "*"
+python-versions = ">=3.6,<4.0"
 
 [package.dependencies]
-Django = ">=2.0"
-django-debug-toolbar = ">=2.0"
+Django = ">=2.2"
+django-debug-toolbar = ">=3.1"
 graphene-django = ">=2.0.0"
 
 [[package]]
@@ -2676,7 +2676,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "~3.9"
-content-hash = "f583c4254364ec3f17111dacf3bf6d7fd834ab4811e0b08a378b9480be43e106"
+content-hash = "99fdbf2cc41da7d0f62128b894a3174a23e20cf38089d7f05111e5ec0fab5043"
 
 [metadata.files]
 adyen = [
@@ -3029,7 +3029,8 @@ django-filter = [
     {file = "django_filter-2.4.0-py3-none-any.whl", hash = "sha256:e00d32cebdb3d54273c48f4f878f898dced8d5dfaad009438fe61ebdf535ace1"},
 ]
 django-graphiql-debug-toolbar = [
-    {file = "django-graphiql-debug-toolbar-0.1.4.tar.gz", hash = "sha256:946fba21418b3fd57e7e357d4cd110fb7881e08d3b7a0a8a00400fa2e75965f5"},
+    {file = "django-graphiql-debug-toolbar-0.2.0.tar.gz", hash = "sha256:aec7a9e096594123d9fc359a583da794a0020b5391d941dda584ce1e667e0afd"},
+    {file = "django_graphiql_debug_toolbar-0.2.0-py3-none-any.whl", hash = "sha256:85bf4e4bdf6b699aa07567bcd28f16454742bf24b3c3334c502bc0be40777777"},
 ]
 django-js-asset = [
     {file = "django-js-asset-1.2.2.tar.gz", hash = "sha256:c163ae80d2e0b22d8fb598047cd0dcef31f81830e127cfecae278ad574167260"},

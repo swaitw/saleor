@@ -101,7 +101,7 @@ pyasn1==0.4.8; python_version >= "3.6" and python_full_version < "3.0.0" and pyt
 pybars3==0.9.7
 pycparser==2.20; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.6"
 pydyf==0.1.1; python_version >= "3.6"
-pyjwt==2.1.0; python_version >= "3.6"
+pyjwt==2.6.0; python_version >= "3.6"
 pymeta3==0.5.1
 pyparsing==2.4.7; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6"
 pyphen==0.11.0; python_version >= "3.6"

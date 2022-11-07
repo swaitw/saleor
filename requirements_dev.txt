@@ -140,7 +140,7 @@ pycparser==2.20; python_version >= "3.6" and python_full_version < "3.0.0" or py
 pydocstyle==6.1.1; python_version >= "3.6"
 pydyf==0.1.1; python_version >= "3.6"
 pyflakes==2.3.1; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
-pyjwt==2.1.0; python_version >= "3.6"
+pyjwt==2.6.0; python_version >= "3.6"
 pylint-celery==0.3
 pylint-django==2.4.4
 pylint-plugin-utils==0.6
